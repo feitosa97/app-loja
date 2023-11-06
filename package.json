@@ -1,0 +1,23 @@
+{
+  "name": "app-loja",
+  "version": "1.0.0",
+  "description": "applicativo election para acesso ao painel de controle de pedidos",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feitosa97/app-loja.git"
+  },
+  "author": "feitosa97",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feitosa97/app-loja/issues"
+  },
+  "homepage": "https://github.com/feitosa97/app-loja#readme",
+  "devDependencies": {
+    "@electron-forge/cli": "^6.4.2",
+    "electron": "^27.0.3"
+  }
+}
